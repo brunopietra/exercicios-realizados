@@ -1,0 +1,10 @@
+
+
+Nome da manicure: Marcia
+ Salário: R$24.00
+
+Nome da manicure: Fat
+ Salário: R$19.50
+
+Nome da manicure: pAOLA
+ Salário: R$19.50

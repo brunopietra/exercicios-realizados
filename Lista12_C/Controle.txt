@@ -1,0 +1,75 @@
+Custos do produto 1 em janeiro: R$128000.00
+ Lucro com a venda do produto 1 em janeiro: R$12800.00
+
+Custos do produto 2 em janeiro: R$160000.00
+Lucro com a venda do produto 2 em janeiro: R$32000.00
+
+Custos do produto 1 em fevereiro: R$172000.00
+ Lucro com a venda do produto 1 em fevereiro: R$17200.00
+
+Custos do produto 2 em fevereiro: R$2670000.00
+Lucro com a venda do produto 2 em fevereiro: R$534000.00
+
+Custos do produto 1 em marco: R$2172000.00
+ Lucro com a venda do produto 1 em marco: R$217200.00
+
+Custos do produto 2 em marco: R$2175000.00
+Lucro com a venda do produto 2 em marco: R$435000.00
+
+Custos do produto 1 em abril: R$1728000.00
+ Lucro com a venda do produto 1 em abril: R$172800.00
+
+Custos do produto 2 em abril: R$1620000.00
+Lucro com a venda do produto 2 em abril: R$324000.00
+
+Custos do produto 1 em maio: R$128000.00
+ Lucro com a venda do produto 1 em maio: R$12800.00
+
+Custos do produto 2 em maio: R$2160000.00
+Lucro com a venda do produto 2 em maio: R$432000.00
+
+Custos do produto 1 em junho: R$2172000.00
+ Lucro com a venda do produto 1 em junho: R$217200.00
+
+Custos do produto 2 em junho: R$2160000.00
+Lucro com a venda do produto 2 em junho: R$432000.00
+
+Custos do produto 1 em julho: R$1728000.00
+ Lucro com a venda do produto 1 em julho: R$172800.00
+
+Custos do produto 2 em julho: R$1710000.00
+Lucro com a venda do produto 2 em julho: R$342000.00
+
+Custos do produto 1 em agosto: R$1296000.00
+ Lucro com a venda do produto 1 em agosto: R$129600.00
+
+Custos do produto 2 em agosto: R$2160000.00
+Lucro com a venda do produto 2 em agosto: R$432000.00
+
+Custos do produto 1 em setembro: R$172000.00
+ Lucro com a venda do produto 1 em setembro: R$17200.00
+
+Custos do produto 2 em setembro: R$2115000.00
+Lucro com a venda do produto 2 em setembro: R$423000.00
+
+Custos do produto 1 em outubro: R$1728000.00
+ Lucro com a venda do produto 1 em outubro: R$172800.00
+
+Custos do produto 2 em outubro: R$215000.00
+Lucro com a venda do produto 2 em outubro: R$43000.00
+
+Custos do produto 1 em novembro: R$172000.00
+ Lucro com a venda do produto 1 em novembro: R$17200.00
+
+Custos do produto 2 em novembro: R$215000.00
+Lucro com a venda do produto 2 em novembro: R$43000.00
+
+Custos do produto 1 em desembro: R$168000.00
+ Lucro com a venda do produto 1 em desembro: R$16800.00
+
+Custos do produto 2 em desembro: R$115000.00
+Lucro com a venda do produto 2 em desembro: R$23000.00
+
+
+
+Lucro total no ano: R$4671400.00
